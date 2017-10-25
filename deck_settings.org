@@ -1,0 +1,36 @@
+* Default deck settings
+** New Cards Tab
+
+ - Steps (in minutes): 10
+ - Order: "Show new cards in random order"
+ - New cards/day: 9999
+ - Graduating Interval: 2 days
+ - Easy Interval: 2 days
+ - Starting ease: 400%
+ - [ ] Bury related new cards until the next day
+
+** Reviews Tab
+
+ - Maximum reviews/day: 9999
+ - Easy bonus: 100%
+ - Interval modifier: 100%
+ - Maximum Interval: 99999 days
+ - [ ] bury related reviews until the next day
+
+** Lapses Tab
+
+ - Steps (in minutes): 10
+ - New interval: 100%
+ - Minimum interval: 2 days
+ - Leech threshold: 4 lapses
+ - Leech action: Tag Only
+
+** General Tab
+
+The only thing that matters here is
+
+ - Ignore answer times longer than: 999 seconds
+
+** Description Tab
+
+Nothing here matters
